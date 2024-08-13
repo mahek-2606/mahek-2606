@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mahek-2606
 - 👀 I’m interested in developing websites
 - 🌱 I’m currently learning full stack python web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mpinjari16@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I grasp new skills quickly
